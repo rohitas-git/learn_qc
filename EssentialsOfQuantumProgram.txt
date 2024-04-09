@@ -1,0 +1,5 @@
+The essential parts of a quantum program are:
+
+Define and build a quantum circuit that represents the quantum state
+Define the classical output by measurements or a set of observable operators
+Depending on the output, use the primitive function sampler to sample outcomes or the estimator to estimate values.
